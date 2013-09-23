@@ -18,7 +18,10 @@ def get_balance(acct):
     p = subprocess.Popen(balance_cmd_tmp,
                          stdout=subprocess.PIPE)
     (out, _) = p.communicate()
-    return float(re.sub(r'\s*(\d+)\s+.*', r'\1', out))
+    try:
+        return float(re.sub(r'\s*(\d+)\s+.*', r'\1', out))
+    except ValueError:
+        return 0
 
 def get_debts():
     p = subprocess.Popen(DEBTS_CMD,
@@ -101,10 +104,10 @@ def render_template(path, week=None, **kwargs):
     punted.sort(key=user_key)
 
     for u in userlist:
-        user_start = datetime.datetime(*(u.start.timetuple()[:6]))
-        if u.end and datetime.datetime(*(u.end.timetuple()[:6])) <= week_start:
+        user_start = parse(u.start, default=START)
+        if u.end and parse(u.end, default=START) <= week_start:
             continue
-        
+
         if should_skip(u.skip, week):
             pass
         elif user_start > week_start:

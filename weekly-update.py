@@ -50,12 +50,8 @@ if not dry_run:
 
     page = dict(title = title, description = body)
 
-    try:
-        subprocess.call(['stty', '-echo'])
-        passwd = raw_input("Password for %s: " % (USER,))
-        print
-    finally:
-        subprocess.call(['stty', 'echo'])
+    with open('secret.txt', 'r') as f:
+        passwd  = f.read().strip()
 
     x = xmlrpclib.ServerProxy(XMLRPC_ENDPOINT)
     x.metaWeblog.newPost(BLOG_ID, USER, passwd, page, True)
@@ -65,15 +61,17 @@ email = render.render_template('templates/email.txt', date, punt=punt)
 if dry_run:
     print email
 else:
-    p = subprocess.Popen(['mutt', '-H', '/dev/stdin'],
-                         stdin=subprocess.PIPE)
-    p.communicate(email)
+    #TODO(gleitz): send email here
+    # p = subprocess.Popen(['mutt', '-H', '/dev/stdin'],
+    #                      stdin=subprocess.PIPE)
+    # p.communicate(email)
+    print email
 
 if punt:
     with open('bloggers.yml') as b:
         bloggers = yaml.safe_load(b)
     for p in punt:
-        if 'end' not in bloggers[p]:
+        if bloggers.get(p) and 'end' not in bloggers[p]:
             bloggers[p]['end'] = date
     with open('bloggers.yml','w') as b:
         yaml.safe_dump(bloggers, b)
@@ -85,6 +83,6 @@ if punt:
 # if it's a dry run, lets set the ledger back to the beginning state
 if dry_run:
     subprocess.check_call(["git", "checkout", "ledger"])
-    
+
     if punt:
         subprocess.check_call(["git", "checkout", "bloggers.yml"])

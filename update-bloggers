@@ -1,7 +1,7 @@
 #!/bin/sh
 HERE=$(dirname "$0")
-$HERE/import-feeds.py
-$HERE/render.py $HERE/templates/config.ini > $HERE/out/config.ini
-rsync $HERE/out/config.ini epicenter:/var/www/iron-blogger/planet/
+python $HERE/import-feeds.py
+python $HERE/render.py $HERE/templates/config.ini > $HERE/out/config.ini
+cp $HERE/out/config.ini /home/gleitz/projects/planet-nightly/examples/iron/config.ini
 
-$HERE/update-participants.py
+python $HERE/update-participants.py

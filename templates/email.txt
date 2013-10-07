@@ -1,6 +1,6 @@
 ## -*- coding: utf-8 -*-
 Subject: IRON BLOGGER results for the week beginning ${week_start.strftime("%F")}
-To: iron-blogger@mako.cc
+To: iron-blogger-sf@googlegroups.com
 
 SLACKERS: ${", ".join(sorted([u.username for u in lame]))}
 % if punt:
@@ -11,7 +11,7 @@ People who posted:
 % for u in sorted(good, key=lambda u:u.username):
  ${u.username}:
  % for p in u.weeks[week]:
- - ${p['url']}
+ - <a href="${p['url']}">${p['title']}</a>
  % endfor
 % endfor
 
@@ -33,7 +33,7 @@ Individual debts:
 % endfor
 % if punted:
 
-PREVIOUSLY PUNTED (pay ${currency}${fine * 6} balance to return): 
+PREVIOUSLY PUNTED (pay ${currency}${fine * 6} balance to return):
 % for (u) in sorted(punted, key=lambda p:p.username):
 ${"%20s (%s)" % (u.username, u.end)}
 % endfor

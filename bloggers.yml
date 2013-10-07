@@ -67,3 +67,7 @@ trip:
   links:
   - [I'm Bruce, 'http://imbruce.blogspot.com/', 'http://imbruce.blogspot.com/feeds/posts/default']
   start: 2013/10/07
+cole:
+  links:
+  - [thinking in public, 'http://thinkinginpublic.tumblr.com/']
+  start: 2013/10/07

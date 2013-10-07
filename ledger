@@ -14,3 +14,6 @@
 2013-10-07 Fine Week 0
   User:toby    -5
   Pool:Owed:toby
+2013-10-07 Payment
+  Pool:Owed:toby    -5
+  Pool:Paid

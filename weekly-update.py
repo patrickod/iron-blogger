@@ -56,7 +56,7 @@ if not dry_run:
     x = xmlrpclib.ServerProxy(XMLRPC_ENDPOINT)
     x.metaWeblog.newPost(BLOG_ID, USER, passwd, page, True)
 
-email = render.render_template('templates/email.txt', date, punt=punt)
+email = render.render_template('templates/email.html', date, punt=punt)
 
 if dry_run:
     print email
@@ -66,6 +66,9 @@ else:
     #                      stdin=subprocess.PIPE)
     # p.communicate(email)
     print email
+
+with open('out/email.txt', 'w') as f:
+    f.write(email)
 
 if punt:
     with open('bloggers.yml') as b:

@@ -15,7 +15,7 @@ try:
 except IOError:
     log = {}
 
-START = datetime.datetime(2013, 9, 3, 6)
+from config import START
 
 def parse_published(pub):
     return parse(pub).astimezone(tz.tzlocal()).replace(tzinfo=None)
@@ -37,7 +37,6 @@ def parse_feeds(weeks, uri):
         print >>sys.stderr, "WARN: no entries for ", uri
     for post in feed.entries:
         date = parse_published(get_date(post))
-
         if date < START:
             continue
         wn = (date - START).days / 7

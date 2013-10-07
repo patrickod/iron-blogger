@@ -1,0 +1,57 @@
+<p>My dearest Iron Bloggers,</p>
+
+<p>Here are the standings for the week of ${week_start.strftime("%F")}. As a reminder, everyone is obliged to post at least one article before 6AM Monday morning.</p>
+
+<p>People who posted:</p>
+<ul>
+% for u in sorted(good, key=lambda u:u.username):
+    % for p in u.weeks[week]:
+    <li><img src="https://mail.google.com/mail/e/B60" goomoji="B60" style="margin:0px 0.2ex;vertical-align:middle"> ${u.username} - <a href="${p['url']}">${p['title']}</a></li>
+    % endfor
+% endfor
+</ul>
+
+<p>SLACKERS</p>
+<p>
+<ul>
+    % for u in lame:
+    <li><img src="https://mail.google.com/mail/e/1E3" style="margin:0px 0.2ex;vertical-align:middle" goomoji="1E3"> ${u.username}</li>
+    % endfor
+</ul>
+</p>
+
+% if punt:
+<p>PUNTED for balance ≥${currency}${fine * 6}: ${", ".join(sorted(punt))}</p>
+% endif
+
+% if skip:
+<p>People who have not yet started:</p>
+<ul>
+% for u in sorted(skip,  key=lambda u:u.username):
+<li>${u.username}</li>
+% endfor
+</ul>
+% endif
+
+<p>Beer pool:<p>
+<ul>
+    <li>This week: ${currency}${fine * len(lame)}.00</li>
+    <li>Total:     ${currency}${pool}</li>
+    <li>Paid:      ${currency}${paid}</li>
+</ul>
+
+<p>Individual debts:</p>
+<ul>
+% for (u, v) in sorted(debts, key=lambda p:p[1], reverse=True):
+<li>${u} ${currency}${v}</li>
+% endfor
+</ul>
+
+% if punted:
+<p>PREVIOUSLY PUNTED (pay ${currency}${fine * 6} balance to return):</p>
+<ul>
+% for (u) in sorted(punted, key=lambda p:p.username):
+<li>${"%20s (%s)" % (u.username, u.end)}</li>
+% endfor
+</ul>
+% endif

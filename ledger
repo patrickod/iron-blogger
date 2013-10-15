@@ -17,3 +17,22 @@
 2013-10-07 Payment
   Pool:Owed:toby    -5
   Pool:Paid
+
+2013-10-14 Fine Week 1
+  User:alexeymk    -5
+  Pool:Owed:alexeymk
+2013-10-14 Fine Week 1
+  User:cole    -5
+  Pool:Owed:cole
+2013-10-14 Fine Week 1
+  User:evan    -5
+  Pool:Owed:evan
+2013-10-14 Fine Week 1
+  User:mikek    -5
+  Pool:Owed:mikek
+2013-10-14 Fine Week 1
+  User:paul    -5
+  Pool:Owed:paul
+2013-10-14 Fine Week 1
+  User:trip    -5
+  Pool:Owed:trip

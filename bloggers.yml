@@ -18,6 +18,10 @@ christine:
   links:
   - [Certainly Strange, 'http://www.certainly-strange.com/', 'http://www.certainly-strange.com/?feed=rss2']
   start: 2013/10/03
+cole:
+  links:
+  - [thinking in public, 'http://thinkinginpublic.tumblr.com/', 'http://thinkinginpublic.tumblr.com/rss']
+  start: 2013/10/07
 docpopular:
   links:
   - [Doctor Popular, 'http://www.docpop.org/', 'http://www.docpop.org/feed/atom/']
@@ -66,8 +70,4 @@ toby:
 trip:
   links:
   - [I'm Bruce, 'http://imbruce.blogspot.com/', 'http://imbruce.blogspot.com/feeds/posts/default']
-  start: 2013/10/07
-cole:
-  links:
-  - [thinking in public, 'http://thinkinginpublic.tumblr.com/']
   start: 2013/10/07

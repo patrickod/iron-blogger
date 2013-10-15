@@ -59,7 +59,8 @@ else:
     for (username, u) in users.items():
         weeks = log.setdefault(username, [])
         for l in u['links']:
-            parse_feeds(weeks, l[2])
+            if len(l) >= 3:
+                parse_feeds(weeks, l[2])
 
 with open('out/report.yml', 'w') as f:
     yaml.safe_dump(log, f)

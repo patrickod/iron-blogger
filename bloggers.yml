@@ -34,6 +34,10 @@ gleitz:
   links:
   - [I before E except Gleitzman, 'http://blog.gleitzman.com/', 'http://blog.gleitzman.com/rss']
   start: 2013/09/30
+joseph:
+  links:
+  - [Joseph Mornin, 'http://mornin.org/', 'http://mornin.org/rss/']
+  start: 2013/10/17
 judytuna:
   links:
   - [tuna says, 'http://judytuna.com/', 'http://judytuna.com/feed/']

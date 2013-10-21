@@ -26,13 +26,11 @@ def send_email(address, html):
     msg['Subject'] = 'Weekly Recap'
     msg['To'] = address
     msg['From'] = username
-    # msg.attach(MIMEText('Boarding pass is attached', 'plain'))
-    msg_bp = MIMEText(html, 'html')
-    msg_bp.add_header('content-disposition', 'attachment', filename='boarding_pass.html')
-    msg.attach(msg_bp)
+    msg['Content-Type'] = 'text/html'
+    msg.attach(MIMEText(html, 'html'))
     smtp.sendmail(address, username, msg.as_string())
 
-    print 'Boarding pass sent successfully'
+    print 'Weekly email send successfully'
     smtp.close()
 
 
@@ -89,13 +87,8 @@ def generate_email():
 
     if dry_run:
         print email
-        send_email('gleitz@mit.edu', email)
     else:
-        #TODO(gleitz): send email here
-        # p = subprocess.Popen(['mutt', '-H', '/dev/stdin'],
-        #                      stdin=subprocess.PIPE)
-        # p.communicate(email)
-        print email
+        send_email('iron-blogger-sf@googlegroups.com', email)
 
     with open('out/email.txt', 'w') as f:
         f.write(email)

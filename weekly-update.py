@@ -80,7 +80,8 @@ def generate_email():
         page = dict(title = title, description = body)
 
         with open('secret.txt', 'r') as f:
-            passwd  = f.read().strip()
+            secret = json.load(f)
+            passwd = secret['wordpress']['password']
 
         x = xmlrpclib.ServerProxy(XMLRPC_ENDPOINT)
         x.metaWeblog.newPost(BLOG_ID, USER, passwd, page, True)

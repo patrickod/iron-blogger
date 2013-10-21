@@ -1,15 +1,14 @@
 #!/usr/bin/python
 
 import render
-import os
-import sys
 import xmlrpclib
-import subprocess
+import json
 
 from config import *
 
 with open('secret.txt', 'r') as f:
-    passwd = f.read().strip()
+    secret = json.load(f)
+    passwd = secret['wordpress']['password']
 
 x = xmlrpclib.ServerProxy(XMLRPC_ENDPOINT)
 page = x.wp.getPage(BLOG_ID, PARTICIPANTS_PAGE_ID, USER, passwd)

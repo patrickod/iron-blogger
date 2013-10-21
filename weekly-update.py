@@ -4,6 +4,7 @@ import xmlrpclib
 import subprocess
 import yaml
 import smtplib
+import json
 
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
@@ -13,8 +14,9 @@ from config import *
 
 def send_email(address, html):
     with open('secret.txt', 'r') as f:
-        lines = f.read().strip()
-        username, password = lines.split('||')
+        secret = json.load(f)
+        username = secret['gmail']['username']
+        password = secret['gmail']['password']
 
     print 'Sending weekly email to {0}...'.format(address)
     smtp = smtplib.SMTP('smtp.gmail.com', 587)

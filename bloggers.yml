@@ -57,7 +57,7 @@ paul:
   start: 2013/09/30
 randylubin:
   links:
-  - [Randy Lubin, 'http://blog.randylubin.com/', 'http://blog.randylubin.com/rss']
+  - [Randy Lubin, 'http://blog.randylubin.com/', 'http://feeds.feedburner.com/randylubin?format=xml']
   start: 2013/09/30
 stars:
   links:

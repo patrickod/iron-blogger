@@ -84,3 +84,10 @@
 2013-10-28 Fine Week 3
   User:trip    -5
   Pool:Owed:trip
+
+2013-10-28 Payment
+  Pool:Owed:carl    -5
+  Pool:Paid
+2013-10-28 Payment
+  Pool:Owed:toby    -5
+  Pool:Paid

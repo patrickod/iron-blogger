@@ -147,7 +147,7 @@
   Pool:Owed:paul    -5
   Pool:Paid
 2013-10-28 Payment
-  Pool:Owed:parker    -5
+  Pool:Owed:thisisparker    -5
   Pool:Paid
 2013-10-28 Payment
   Pool:Owed:mikek    -25
@@ -188,3 +188,4 @@
 2013-11-11 Fine Week 5
   User:trip    -5
   Pool:Owed:trip
+

@@ -185,6 +185,12 @@ balance Pool:Owed" to find the balance owed. In this command, the first
 ledger is the program GNU Ledger while the "-f ledger" tell is to read
 the ledger file in the local directory as its input.
 
+When you have an event, enter it in the ledger like this
+
+2013-11-06 Drinkup at Rosamunde
+ Pool:Paid  -85
+ Events
+
 4. out/
 
 The Iron Blogger code was a subdirectory called "out" where it will

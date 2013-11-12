@@ -189,3 +189,6 @@
   User:trip    -5
   Pool:Owed:trip
 
+2013-11-21 Payment
+  Pool:Owed:judytuna    -20
+  Pool:Paid

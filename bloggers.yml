@@ -31,6 +31,7 @@ docpopular:
   - [Doctor Popular, 'http://www.docpop.org/', 'http://www.docpop.org/feed/atom/']
   start: 2013/09/30
 evan:
+  end: '2013-11-11'
   links:
   - [evan's blog, 'http://evanburchard.com/blog', 'http://evanburchard.com/blog/rss']
   start: 2013/09/30

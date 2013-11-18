@@ -188,6 +188,9 @@
 2013-11-11 Fine Week 5
   User:trip    -5
   Pool:Owed:trip
+2013-11-11 Punt
+  Pool:Owed:evan  -35.0
+  User:evan
 
 2013-11-21 Payment
   Pool:Owed:judytuna    -20
@@ -235,7 +238,6 @@
   User:trip    -5
   Pool:Owed:trip
 
-    2013-11-11 Punt
-      Pool:Owed:evan  -35.0
-      User:evan
-    
+2013-11-18 Payment
+  Pool:Owed:gleitz    -5
+  Pool:Paid

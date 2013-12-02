@@ -296,3 +296,8 @@
 2013-12-02 Fine Week 8
   User:toby    -5
   Pool:Owed:toby
+
+    2013-11-25 Punt
+      Pool:Owed:stars  -35.0
+      User:stars
+    

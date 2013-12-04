@@ -30,7 +30,7 @@ def send_email(address, html):
     msg['From'] = username
     msg['Content-Type'] = 'text/html'
     msg.attach(MIMEText(html, 'html'))
-    smtp.sendmail(address, username, msg.as_string())
+    smtp.sendmail(username, address, msg.as_string())
 
     print 'Weekly email send successfully'
     smtp.close()

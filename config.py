@@ -31,3 +31,7 @@ else:
     DEBTS_CMD = ['ledger', '-f', os.path.join(HERE, 'ledger'),
                  '-n', 'balance', 'Pool:Owed:']
 
+PUNT_TEXT = """\
+%(date)s Punt
+  Pool:Owed:%(user)s  -%(debt)s
+  User:%(user)s"""

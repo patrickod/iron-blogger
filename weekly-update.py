@@ -63,11 +63,7 @@ def generate_email():
             if debt <= (FINE_SIZE * 6):
                 continue
             punt.append(user)
-            f.write("""\
-    %(date)s Punt
-      Pool:Owed:%(user)s  -%(debt)s
-      User:%(user)s
-    """ % {'user': user, 'debt': debt, 'date': date})
+            f.write(PUNT_TEXT % {'user': user, 'debt': debt, 'date': date})
 
 
     if not dry_run:

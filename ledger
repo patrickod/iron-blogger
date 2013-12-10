@@ -338,3 +338,6 @@
 2013-12-09 Payment
   Pool:Owed:carl    -20
   Pool:Paid
+2013-12-10 Payment
+  Pool:Owed:chrismaury    -10
+  Pool:Paid

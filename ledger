@@ -335,3 +335,6 @@
 2013-12-09 Payment
   Pool:Owed:christine    -5
   Pool:Paid
+2013-12-09 Payment
+  Pool:Owed:carl    -20
+  Pool:Paid

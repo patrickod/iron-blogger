@@ -30,6 +30,7 @@ def raffle(last_meetup):
     print tickets
     return random.choice(tickets)
 
+
 if __name__ == '__main__':
     if len(sys.argv) > 1:
         date = sys.argv[1]

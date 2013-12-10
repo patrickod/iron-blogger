@@ -37,8 +37,8 @@ def get_debts():
         debts.append((user, val))
     return debts
 
-def to_week_num(date):
-    return (parse(date, default=START) - START).days / 7
+def to_week_num(date, start=START):
+    return (parse(date, default=start) - start).days / 7
 
 def parse_skip(rec):
     spec = rec.get('skip', [])

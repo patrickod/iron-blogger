@@ -384,9 +384,6 @@
   User:christine    -5
   Pool:Owed:christine
 2013-12-23 Fine Week 11
-  User:cole    -5
-  Pool:Owed:cole
-2013-12-23 Fine Week 11
   User:judytuna    -5
   Pool:Owed:judytuna
 2013-12-23 Fine Week 11
@@ -432,4 +429,7 @@
   Pool:Paid
 2013-12-23 Payment
   Pool:Owed:toby    -5
+  Pool:Paid
+2013-12-23 Payment
+  Pool:Owed:cole    -5
   Pool:Paid

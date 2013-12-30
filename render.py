@@ -33,7 +33,7 @@ def get_debts():
         (val, acct) = line.split()
         user = acct[len("Pool:Owed:"):]
         if not user: continue
-        val = float(re.sub(r'(\D)?(\d+)$', r'\2', val))
+        val = float(re.sub(r'(\D)?([-]+\d+)$', r'\2', val))
         debts.append((user, val))
     return debts
 

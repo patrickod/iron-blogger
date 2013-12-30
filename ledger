@@ -433,3 +433,22 @@
 2013-12-23 Payment
   Pool:Owed:cole    -5
   Pool:Paid
+
+2013-12-30 Fine Week 12
+  User:alexeymk    -5
+  Pool:Owed:alexeymk
+2013-12-30 Fine Week 12
+  User:carl    -5
+  Pool:Owed:carl
+2013-12-30 Fine Week 12
+  User:cole    -5
+  Pool:Owed:cole
+2013-12-30 Fine Week 12
+  User:colin    -5
+  Pool:Owed:colin
+2013-12-30 Fine Week 12
+  User:joseph    -5
+  Pool:Owed:joseph
+2013-12-30 Fine Week 12
+  User:thisisparker    -5
+  Pool:Owed:thisisparker

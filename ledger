@@ -506,3 +506,9 @@
 2014-01-12 Payment
   Pool:Owed:mikek  -30.0
   Pool:paid
+2014-01-13 Fine Week 14
+  User:alexeymk    -5
+  Pool:Owed:alexeymk
+2014-01-13 Fine Week 14
+  User:cole    -5
+  Pool:Owed:cole

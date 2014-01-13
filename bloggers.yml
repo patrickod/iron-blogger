@@ -30,6 +30,10 @@ docpopular:
   links:
   - [Doctor Popular, 'http://www.docpop.org/', 'http://www.docpop.org/feed/atom/']
   start: 2013/09/30
+emily:
+  links:
+  - [emily does this, 'http://emilydoesthis.com/blog/', 'http://emilydoesthis.com/feed/']
+  start: 2014/01/09
 evan:
   end: '2013-11-11'
   links:
@@ -53,7 +57,6 @@ maira:
   - [maira's blog, 'http://mairasutton.net/', 'http://mairasutton.net/?feed=rss2']
   start: 2013/09/30
 mikek:
-  end: '2013-12-16'
   links:
   - [Mocking Eye, 'http://mockingeye.com/', 'http://mockingeye.com/atom.xml']
   start: 2013/09/30

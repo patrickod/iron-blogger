@@ -156,8 +156,8 @@
   Pool:Owed:carl    -5
   Pool:Paid
 2013-11-06 Drinkup at Rosamunde
- Pool:Paid  -85
- Events
+  Pool:Paid  -85
+  Pool:Events
 2013-11-11 Fine Week 5
   User:adikamdar    -5
   Pool:Owed:adikamdar
@@ -479,3 +479,24 @@
 2013-12-30 Punt
   Pool:Owed:joseph  -35.0
   User:joseph
+
+2014-01-09 Payment
+  Pool:Owed:colin  -10.0
+  Pool:paid
+2014-01-09 Payment
+  Pool:Owed:alexeymk  -10.0
+  Pool:paid
+2014-01-09 Payment
+  Pool:Owed:paul  -5.0
+  Pool:paid
+
+2014-01-09 Drinkup at Zeitgeist
+  Pool:Paid  -107
+  Pool:Events
+
+2014-01-12 Unpunt
+  Pool:Owed:mikek  30.0
+  User:mikek
+2014-01-12 Payment
+  Pool:Owed:mikek  -30.0
+  Pool:paid

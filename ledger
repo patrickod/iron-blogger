@@ -482,19 +482,19 @@
 
 2014-01-09 Payment
   Pool:Owed:colin  -10.0
-  Pool:paid
+  Pool:Paid
 2014-01-09 Payment
   Pool:Owed:alexeymk  -10.0
-  Pool:paid
+  Pool:Paid
 2014-01-09 Payment
   Pool:Owed:paul  -5.0
-  Pool:paid
+  Pool:Paid
 2014-01-09 Payment
   Pool:Owed:christine  -5.0
-  Pool:paid
+  Pool:Paid
 2014-01-09 Payment
   Pool:Owed:carl  -5.0
-  Pool:paid
+  Pool:Paid
 
 2014-01-09 Drinkup at Zeitgeist
   Pool:Paid  -107
@@ -505,10 +505,11 @@
   User:mikek
 2014-01-12 Payment
   Pool:Owed:mikek  -30.0
-  Pool:paid
+  Pool:Paid
 2014-01-13 Fine Week 14
   User:alexeymk    -5
   Pool:Owed:alexeymk
 2014-01-13 Fine Week 14
   User:cole    -5
   Pool:Owed:cole
+

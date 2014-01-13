@@ -489,6 +489,12 @@
 2014-01-09 Payment
   Pool:Owed:paul  -5.0
   Pool:paid
+2014-01-09 Payment
+  Pool:Owed:christine  -5.0
+  Pool:paid
+2014-01-09 Payment
+  Pool:Owed:carl  -5.0
+  Pool:paid
 
 2014-01-09 Drinkup at Zeitgeist
   Pool:Paid  -107

@@ -568,3 +568,25 @@
 2014-01-20 Punt
   Pool:Owed:toby  -35.0
   User:toby
+
+2014-02-27 Payment
+  Pool:Owed:judytuna    -30
+  Pool:Paid
+2014-02-03 Fine Week 17
+  User:alexeymk    -5
+  Pool:Owed:alexeymk
+2014-02-03 Fine Week 17
+  User:carl    -5
+  Pool:Owed:carl
+2014-02-03 Fine Week 17
+  User:emily    -5
+  Pool:Owed:emily
+2014-02-03 Fine Week 17
+  User:judytuna    -5
+  Pool:Owed:judytuna
+2014-02-03 Fine Week 17
+  User:mikek    -5
+  Pool:Owed:mikek
+2014-02-03 Fine Week 17
+  User:toby    -5
+  Pool:Owed:toby

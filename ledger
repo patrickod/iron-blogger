@@ -251,3 +251,25 @@
 2014-03-17 Punt
   Pool:Owed:jason  -35.0
   User:jason
+
+2013-03-27 Payment
+  Pool:Owed:carl    -25
+  Pool:Paid
+2013-03-27 Payment
+  Pool:Owed:chrismaury    -20
+  Pool:Paid
+2013-03-27 Payment
+  Pool:Owed:alexeymk    -30
+  Pool:Paid
+2013-03-27 Payment
+  Pool:Owed:colin    -10
+  Pool:Paid
+2013-03-27 Payment
+  Pool:Owed:adikamdar    -20
+  Pool:Paid
+2013-03-27 Payment
+  Pool:Owed:maira    -20
+  Pool:Paid
+2013-03-27 Payment
+  Pool:Owed:gleitz    -5
+  Pool:Paid

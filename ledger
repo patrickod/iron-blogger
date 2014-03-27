@@ -273,6 +273,9 @@
 2014-03-27 Payment
   Pool:Owed:gleitz    -5
   Pool:Paid
+2014-03-27 Payment
+  Pool:Owed:christine    -10
+  Pool:Paid
 2014-03-27 Drinkup
   Pool:Paid  -150
   Pool:Events

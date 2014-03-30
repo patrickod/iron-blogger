@@ -49,7 +49,7 @@ gleitz:
 jason:
   end: '2014-03-17'
   links:
-  - [Startup Law Journal, startuplawjournal.com]
+  - [Startup Law Journal, 'https://medium.com/@jboehmig']
   start: 2014/02/03
 joseph:
   end: '2013-12-30'

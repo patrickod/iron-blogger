@@ -94,9 +94,6 @@
   User:emily    -5
   Pool:Owed:emily
 2014-02-10 Fine Week 18
-  User:jason    -5
-  Pool:Owed:jason
-2014-02-10 Fine Week 18
   User:mikek    -5
   Pool:Owed:mikek
 2014-02-10 Fine Week 18
@@ -116,9 +113,6 @@
 2014-02-17 Fine Week 19
   User:chrismaury    -5
   Pool:Owed:chrismaury
-2014-02-17 Fine Week 19
-  User:jason    -5
-  Pool:Owed:jason
 2014-02-17 Fine Week 19
   User:judytuna    -5
   Pool:Owed:judytuna
@@ -146,9 +140,6 @@
   User:colin    -5
   Pool:Owed:colin
 2014-02-24 Fine Week 20
-  User:jason    -5
-  Pool:Owed:jason
-2014-02-24 Fine Week 20
   User:judytuna    -5
   Pool:Owed:judytuna
 2014-02-24 Fine Week 20
@@ -174,9 +165,6 @@
 2014-03-03 Fine Week 21
   User:emily    -5
   Pool:Owed:emily
-2014-03-03 Fine Week 21
-  User:jason    -5
-  Pool:Owed:jason
 2014-03-03 Fine Week 21
   User:judytuna    -5
   Pool:Owed:judytuna
@@ -205,9 +193,6 @@
   User:emily    -5
   Pool:Owed:emily
 2014-03-10 Fine Week 22
-  User:jason    -5
-  Pool:Owed:jason
-2014-03-10 Fine Week 22
   User:judytuna    -5
   Pool:Owed:judytuna
 
@@ -218,9 +203,6 @@
 2014-03-17 Fine Week 23
   User:emily    -5
   Pool:Owed:emily
-2014-03-17 Fine Week 23
-  User:jason    -5
-  Pool:Owed:jason
 2014-03-17 Fine Week 23
   User:judytuna    -5
   Pool:Owed:judytuna
@@ -236,9 +218,6 @@
   User:gleitz    -5
   Pool:Owed:gleitz
 2014-03-24 Fine Week 24
-  User:jason    -5
-  Pool:Owed:jason
-2014-03-24 Fine Week 24
   User:judytuna    -5
   Pool:Owed:judytuna
 2014-03-24 Fine Week 24
@@ -247,10 +226,6 @@
 2014-03-24 Fine Week 24
   User:paul    -5
   Pool:Owed:paul
-
-2014-03-17 Punt
-  Pool:Owed:jason  -35.0
-  User:jason
 
 2014-03-27 Payment
   Pool:Owed:carl    -25

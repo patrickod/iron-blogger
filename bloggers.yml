@@ -34,6 +34,7 @@ docpopular:
   - [Doctor Popular, 'http://www.docpop.org/', 'http://www.docpop.org/feed/atom/']
   start: 2013/09/30
 emily:
+  end: '2014-03-31'
   links:
   - [emily does this, 'http://emilydoesthis.com/blog/', 'http://emilydoesthis.com/feed/']
   start: 2014/01/09
@@ -49,7 +50,7 @@ gleitz:
 jason:
   end: '2014-03-17'
   links:
-  - [Startup Law Journal, 'https://medium.com/@jboehmig']
+  - [Startup Law Journal, 'https://medium.com/@jboehmig', 'https://medium.com/feed/@jboehmig']
   start: 2014/02/03
 joseph:
   end: '2013-12-30'

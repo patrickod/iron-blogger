@@ -68,6 +68,7 @@ maira:
 matt:
   links:
   - [I like turtles, 'http://mattspitz.net/', 'http://mattspitz.net/feed.xml']
+  - [Matt Spitz, 'http://mattspitz.me/', 'http://mattspitz.me/feed.xml']
   start: 2014/01/31
 mikek:
   end: '2014-02-24'

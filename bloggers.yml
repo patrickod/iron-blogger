@@ -76,6 +76,7 @@ mikek:
   - [Mocking Eye, 'http://mockingeye.com/', 'http://mockingeye.com/atom.xml']
   start: 2013/09/30
 paul:
+  end: '2014-04-21'
   links:
   - [connectioni.st, 'http://connectioni.st/', 'http://feeds.feedburner.com/connectionist']
   - [automin, 'http://automin.tumblr.com/', 'http://automin.tumblr.com/rss']

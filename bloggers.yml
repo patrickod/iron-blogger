@@ -104,3 +104,7 @@ trip:
   links:
   - [I'm Bruce, 'http://imbruce.blogspot.com/', 'http://imbruce.blogspot.com/feeds/posts/default']
   start: 2013/10/07
+greg:
+  links:
+  - [Greg Lubin, 'http://greglubin.com/']
+  start: 2014/05/11

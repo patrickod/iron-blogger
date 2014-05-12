@@ -345,3 +345,13 @@
 2014-05-05 Payment
   Pool:Owed:maira    -5
   Pool:Paid
+
+2014-05-12 Fine Week 31
+  User:adikamdar    -5
+  Pool:Owed:adikamdar
+2014-05-12 Fine Week 31
+  User:chrismaury    -5
+  Pool:Owed:chrismaury
+2014-05-12 Fine Week 31
+  User:thisisparker    -5
+  Pool:Owed:thisisparker

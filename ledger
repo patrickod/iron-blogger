@@ -379,3 +379,6 @@
 2014-05-20 Payment
   Pool:Owed:thisisparker    -10
   Pool:Paid
+2014-05-20 Payment
+  Pool:Owed:christine    -15
+  Pool:Paid

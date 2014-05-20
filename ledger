@@ -375,3 +375,7 @@
 2014-05-19 Fine Week 32
   User:maira    -5
   Pool:Owed:maira
+
+2014-05-20 Payment
+  Pool:Owed:thisisparker    -10
+  Pool:Paid

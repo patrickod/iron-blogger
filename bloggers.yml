@@ -3,7 +3,6 @@ adikamdar:
   - [stuffthought, 'http://stuffthought.com/blog/', 'http://stuffthought.com/blog/?feed=atom']
   start: 2013/09/30
 alexeymk:
-  end: '2014-02-24'
   links:
   - [Alexey needs a web presence, 'http://alexeymk.com/', 'http://feeds.feedburner.com/AlexeyNeedsAWebPresence']
   start: 2013/09/30
@@ -75,7 +74,6 @@ matt:
   - [Matt Spitz, 'http://mattspitz.me/', 'http://mattspitz.me/feed.xml']
   start: 2014/01/31
 mikek:
-  end: '2014-02-24'
   links:
   - [Mocking Eye, 'http://mockingeye.com/', 'http://mockingeye.com/atom.xml']
   start: 2013/09/30

@@ -48,7 +48,7 @@ gleitz:
   start: 2013/09/30
 greg:
   links:
-  - [Greg Lubin, 'http://greglubin.com/']
+  - [Greg Lubin, 'http://greglubin.com/', 'http://greglubin.com/rss']
   start: 2014/05/11
 jason:
   end: '2014-03-17'

@@ -385,3 +385,12 @@
 2014-05-20 Payment
   Pool:Owed:judytuna    -15
   Pool:Paid
+2014-05-20 Payment
+  Pool:Owed:adikamdar    -20
+  Pool:Paid
+2014-05-20 Payment
+  Pool:Owed:mikek    -30
+  Pool:Paid
+2014-05-20 Drinkup
+  Pool:Paid  -150
+  Pool:Events

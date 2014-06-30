@@ -12,6 +12,7 @@ carl:
   - [carl tashian, 'http://blog.tashian.com/', 'http://blog.tashian.com/feed']
   start: 2013/09/30
 chrismaury:
+  end: '2014-06-23'
   links:
   - [Chris Maury's Blog, 'http://chrismaury.com/', 'http://chrismaury.com/rss']
   start: 2013/09/30

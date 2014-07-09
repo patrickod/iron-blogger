@@ -544,6 +544,6 @@
   User:thisisparker    -5
   Pool:Owed:thisisparker
 
-2014-06-30 Punt
-  Pool:Owed:judytuna  -35.0
-  User:judytuna
+2014-07-08 Payment
+  Pool:Owed:judytuna    -30
+  Pool:Paid

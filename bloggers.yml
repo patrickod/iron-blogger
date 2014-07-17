@@ -1,5 +1,4 @@
 adikamdar:
-  end: '2014-07-07'
   links:
   - [stuffthought, 'http://stuffthought.com/blog/', 'http://stuffthought.com/blog/?feed=atom']
   start: 2013/09/30
@@ -65,7 +64,6 @@ joseph:
   - [Joseph Mornin, 'http://mornin.org/', 'http://mornin.org/rss/']
   start: 2013/10/17
 judytuna:
-  end: '2014-06-30'
   links:
   - [tuna says, 'http://judytuna.com/', 'http://judytuna.com/feed/']
   start: 2013/09/30

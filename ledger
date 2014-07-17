@@ -522,9 +522,6 @@
   User:mikek    -5
   Pool:Owed:mikek
 
-2014-06-23 Punt
-  Pool:Owed:chrismaury  -35.0
-  User:chrismaury
 2014-07-07 Fine Week 39
   User:adikamdar    -5
   Pool:Owed:adikamdar
@@ -561,8 +558,21 @@
   User:mikek    -5
   Pool:Owed:mikek
 
-2014-07-07 Punt
-  Pool:Owed:adikamdar  -35.0
-  User:adikamdar2014-07-07 Punt
-  Pool:Owed:alexeymk  -35.0
-  User:alexeymk
+2014-07-15 Payment
+  Pool:Owed:docpopular    -10
+  Pool:Paid
+2014-07-15 Payment
+  Pool:Owed:christine    -5
+  Pool:Paid
+2014-07-15 Payment
+  Pool:Owed:maira    -20
+  Pool:Paid
+2014-07-15 Payment
+  Pool:Owed:gleitz    -25
+  Pool:Paid
+2014-07-15 Payment
+  Pool:Owed:mikek    -30
+  Pool:Paid
+2014-07-15 Payment
+  Pool:Owed:alexeymk    -30
+  Pool:Paid

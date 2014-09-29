@@ -1,4 +1,5 @@
 adikamdar:
+  end: '2014-09-22'
   links:
   - [stuffthought, 'http://stuffthought.com/blog/', 'http://stuffthought.com/blog/?feed=atom']
   start: 2014/09/28
@@ -50,6 +51,7 @@ gleitz:
   - [I before E except Gleitzman, 'http://blog.gleitzman.com/', 'http://blog.gleitzman.com/rss']
   start: 2013/09/30
 greg:
+  end: '2014-09-22'
   links:
   - [Greg Lubin, 'http://greglubin.com/', 'http://greglubin.com/rss']
   start: 2014/05/11
@@ -64,6 +66,7 @@ joseph:
   - [Joseph Mornin, 'http://mornin.org/', 'http://mornin.org/rss/']
   start: 2013/10/17
 judytuna:
+  end: '2014-09-22'
   links:
   - [tuna says, 'http://judytuna.com/', 'http://judytuna.com/feed/']
   start: 2013/09/30
@@ -77,6 +80,7 @@ matt:
   - [Matt Spitz, 'http://mattspitz.me/', 'http://mattspitz.me/feed.xml']
   start: 2014/01/31
 mikek:
+  end: '2014-09-22'
   links:
   - [Mocking Eye, 'http://mockingeye.com/', 'http://mockingeye.com/atom.xml']
   start: 2013/09/30

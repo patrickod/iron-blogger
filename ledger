@@ -57,10 +57,6 @@
   User:toby    -5
   Pool:Owed:toby
 
-2014-01-20 Punt
-  Pool:Owed:toby  -35.0
-  User:toby
-
 2014-02-27 Payment
   Pool:Owed:judytuna    -30
   Pool:Paid
@@ -275,10 +271,6 @@
   User:judytuna    -5
   Pool:Owed:judytuna
 
-2014-03-31 Punt
-  Pool:Owed:emily  -35.0
-  User:emily
-
 2014-04-11 Payment
   Pool:Owed:judytuna    -25
   Pool:Paid
@@ -296,9 +288,6 @@
   User:maira    -5
   Pool:Owed:maira
 
-2014-04-07 Punt
-  Pool:Owed:mikek  -35.0
-  User:mikek
 2014-04-21 Fine Week 28
   User:adikamdar    -5
   Pool:Owed:adikamdar
@@ -335,9 +324,6 @@
   User:paul    -5
   Pool:Owed:paul
 
-2014-04-21 Punt
-  Pool:Owed:paul  -35.0
-  User:paul
 2014-05-05 Fine Week 30
   User:judytuna    -5
   Pool:Owed:judytuna
@@ -500,9 +486,6 @@
   User:mikek    -5
   Pool:Owed:mikek
 
-2014-06-16 Punt
-  Pool:Owed:colin  -35.0
-  User:colin
 2014-06-30 Fine Week 38
   User:adikamdar    -5
   Pool:Owed:adikamdar
@@ -593,11 +576,6 @@
   User:thisisparker    -5
   Pool:Owed:thisisparker
 
-2014-07-14 Punt
-  Pool:Owed:adikamdar  -40.0
-  User:adikamdar2014-07-14 Punt
-  Pool:Owed:chrismaury  -35.0
-  User:chrismaury
 2014-07-28 Fine Week 42
   User:christine    -5
   Pool:Owed:christine

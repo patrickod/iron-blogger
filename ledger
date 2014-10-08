@@ -356,3 +356,268 @@
   User:thisisparker    -5
   Pool:Owed:thisisparker
 
+
+2014-05-19 Fine Week 32
+  User:adikamdar    -5
+  Pool:Owed:adikamdar
+2014-05-19 Fine Week 32
+  User:christine    -5
+  Pool:Owed:christine
+2014-05-19 Fine Week 32
+  User:colin    -5
+  Pool:Owed:colin
+2014-05-19 Fine Week 32
+  User:greg    -5
+  Pool:Owed:greg
+2014-05-19 Fine Week 32
+  User:judytuna    -5
+  Pool:Owed:judytuna
+2014-05-19 Fine Week 32
+  User:maira    -5
+  Pool:Owed:maira
+
+2014-05-20 Payment
+  Pool:Owed:thisisparker    -10
+  Pool:Paid
+2014-05-20 Payment
+  Pool:Owed:christine    -15
+  Pool:Paid
+2014-05-20 Payment
+  Pool:Owed:judytuna    -15
+  Pool:Paid
+2014-05-20 Payment
+  Pool:Owed:adikamdar    -20
+  Pool:Paid
+2014-05-20 Payment
+  Pool:Owed:mikek    -30
+  Pool:Paid
+2014-05-20 Drinkup
+  Pool:Paid  -150
+  Pool:Events
+
+2014-05-26 Fine Week 33
+  User:adikamdar    -5
+  Pool:Owed:adikamdar
+2014-05-26 Fine Week 33
+  User:alexeymk    -5
+  Pool:Owed:alexeymk
+2014-05-26 Fine Week 33
+  User:chrismaury    -5
+  Pool:Owed:chrismaury
+2014-05-26 Fine Week 33
+  User:colin    -5
+  Pool:Owed:colin
+2014-05-26 Fine Week 33
+  User:gleitz    -5
+  Pool:Owed:gleitz
+2014-05-26 Fine Week 33
+  User:greg    -5
+  Pool:Owed:greg
+2014-05-26 Fine Week 33
+  User:mikek    -5
+  Pool:Owed:mikek
+
+
+2014-06-09 Fine Week 35
+  User:adikamdar    -5
+  Pool:Owed:adikamdar
+2014-06-09 Fine Week 35
+  User:alexeymk    -5
+  Pool:Owed:alexeymk
+2014-06-09 Fine Week 35
+  User:chrismaury    -5
+  Pool:Owed:chrismaury
+2014-06-09 Fine Week 35
+  User:colin    -5
+  Pool:Owed:colin
+2014-06-09 Fine Week 35
+  User:docpopular    -5
+  Pool:Owed:docpopular
+2014-06-09 Fine Week 35
+  User:greg    -5
+  Pool:Owed:greg
+2014-06-09 Fine Week 35
+  User:judytuna    -5
+  Pool:Owed:judytuna
+2014-06-09 Fine Week 35
+  User:mikek    -5
+  Pool:Owed:mikek
+2014-06-09 Fine Week 35
+  User:thisisparker    -5
+  Pool:Owed:thisisparker
+
+2014-06-16 Fine Week 36
+  User:adikamdar    -5
+  Pool:Owed:adikamdar
+2014-06-16 Fine Week 36
+  User:alexeymk    -5
+  Pool:Owed:alexeymk
+2014-06-16 Fine Week 36
+  User:chrismaury    -5
+  Pool:Owed:chrismaury
+2014-06-16 Fine Week 36
+  User:christine    -5
+  Pool:Owed:christine
+2014-06-16 Fine Week 36
+  User:colin    -5
+  Pool:Owed:colin
+2014-06-16 Fine Week 36
+  User:gleitz    -5
+  Pool:Owed:gleitz
+2014-06-16 Fine Week 36
+  User:greg    -5
+  Pool:Owed:greg
+2014-06-16 Fine Week 36
+  User:judytuna    -5
+  Pool:Owed:judytuna
+2014-06-16 Fine Week 36
+  User:maira    -5
+  Pool:Owed:maira
+2014-06-16 Fine Week 36
+  User:mikek    -5
+  Pool:Owed:mikek
+
+
+2014-06-23 Fine Week 37
+  User:adikamdar    -5
+  Pool:Owed:adikamdar
+2014-06-23 Fine Week 37
+  User:alexeymk    -5
+  Pool:Owed:alexeymk
+2014-06-23 Fine Week 37
+  User:chrismaury    -5
+  Pool:Owed:chrismaury
+2014-06-23 Fine Week 37
+  User:colin    -5
+  Pool:Owed:colin
+2014-06-23 Fine Week 37
+  User:greg    -5
+  Pool:Owed:greg
+2014-06-23 Fine Week 37
+  User:judytuna    -5
+  Pool:Owed:judytuna
+2014-06-23 Fine Week 37
+  User:mikek    -5
+  Pool:Owed:mikek
+
+2014-06-16 Punt
+  Pool:Owed:colin  -35.0
+  User:colin
+2014-06-30 Fine Week 38
+  User:adikamdar    -5
+  Pool:Owed:adikamdar
+2014-06-30 Fine Week 38
+  User:alexeymk    -5
+  Pool:Owed:alexeymk
+2014-06-30 Fine Week 38
+  User:chrismaury    -5
+  Pool:Owed:chrismaury
+2014-06-30 Fine Week 38
+  User:judytuna    -5
+  Pool:Owed:judytuna
+2014-06-30 Fine Week 38
+  User:maira    -5
+  Pool:Owed:maira
+2014-06-30 Fine Week 38
+  User:mikek    -5
+  Pool:Owed:mikek
+
+2014-07-07 Fine Week 39
+  User:adikamdar    -5
+  Pool:Owed:adikamdar
+2014-07-07 Fine Week 39
+  User:docpopular    -5
+  Pool:Owed:docpopular
+2014-07-07 Fine Week 39
+  User:judytuna    -5
+  Pool:Owed:judytuna
+2014-07-07 Fine Week 39
+  User:maira    -5
+  Pool:Owed:maira
+2014-07-07 Fine Week 39
+  User:mikek    -5
+  Pool:Owed:mikek
+2014-07-07 Fine Week 39
+  User:thisisparker    -5
+  Pool:Owed:thisisparker
+
+2014-07-08 Payment
+  Pool:Owed:judytuna    -30
+  Pool:Paid
+
+2014-07-14 Fine Week 40
+  User:adikamdar    -5
+  Pool:Owed:adikamdar
+2014-07-14 Fine Week 40
+  User:alexeymk    -5
+  Pool:Owed:alexeymk
+2014-07-14 Fine Week 40
+  User:gleitz    -5
+  Pool:Owed:gleitz
+2014-07-14 Fine Week 40
+  User:mikek    -5
+  Pool:Owed:mikek
+
+2014-07-15 Payment
+  Pool:Owed:docpopular    -10
+  Pool:Paid
+2014-07-15 Payment
+  Pool:Owed:christine    -5
+  Pool:Paid
+2014-07-15 Payment
+  Pool:Owed:maira    -20
+  Pool:Paid
+2014-07-15 Payment
+  Pool:Owed:gleitz    -25
+  Pool:Paid
+2014-07-15 Payment
+  Pool:Owed:mikek    -30
+  Pool:Paid
+2014-07-15 Payment
+  Pool:Owed:alexeymk    -30
+  Pool:Paid
+
+2014-07-21 Fine Week 41
+  User:adikamdar    -5
+  Pool:Owed:adikamdar
+2014-07-21 Fine Week 41
+  User:christine    -5
+  Pool:Owed:christine
+2014-07-21 Fine Week 41
+  User:judytuna    -5
+  Pool:Owed:judytuna
+2014-07-21 Fine Week 41
+  User:mikek    -5
+  Pool:Owed:mikek
+2014-07-21 Fine Week 41
+  User:thisisparker    -5
+  Pool:Owed:thisisparker
+
+2014-07-14 Punt
+  Pool:Owed:adikamdar  -40.0
+  User:adikamdar2014-07-14 Punt
+  Pool:Owed:chrismaury  -35.0
+  User:chrismaury
+2014-07-28 Fine Week 42
+  User:christine    -5
+  Pool:Owed:christine
+2014-07-28 Fine Week 42
+  User:greg    -5
+  Pool:Owed:greg
+2014-07-28 Fine Week 42
+  User:judytuna    -5
+  Pool:Owed:judytuna
+2014-07-28 Fine Week 42
+  User:mikek    -5
+  Pool:Owed:mikek
+
+
+2014-08-04 Fine Week 43
+  User:judytuna    -5
+  Pool:Owed:judytuna
+2014-08-04 Fine Week 43
+  User:mikek    -5
+  Pool:Owed:mikek
+2014-08-04 Fine Week 43
+  User:thisisparker    -5
+  Pool:Owed:thisisparker

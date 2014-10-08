@@ -1,9 +1,9 @@
 adikamdar:
   links:
   - [stuffthought, 'http://stuffthought.com/blog/', 'http://stuffthought.com/blog/?feed=atom']
-  start: 2013/09/30
+  start: 2014/09/30
 alexeymk:
-  end: '2014-02-24'
+  end: '2014-07-07'
   links:
   - [Alexey needs a web presence, 'http://alexeymk.com/', 'http://feeds.feedburner.com/AlexeyNeedsAWebPresence']
   start: 2013/09/30
@@ -13,6 +13,7 @@ carl:
   - [carl tashian, 'http://blog.tashian.com/', 'http://blog.tashian.com/feed']
   start: 2013/09/30
 chrismaury:
+  end: '2014-06-23'
   links:
   - [Chris Maury's Blog, 'http://chrismaury.com/', 'http://chrismaury.com/rss']
   start: 2013/09/30
@@ -26,6 +27,7 @@ cole:
   - [thinking in public, 'http://thinkinginpublic.tumblr.com/', 'http://thinkinginpublic.tumblr.com/rss']
   start: 2013/10/07
 colin:
+  end: '2014-06-16'
   links:
   - [Thoughts from the Nerd State, 'http://colinschimmelfing.com/blog/', 'http://colinschimmelfing.com/blog/feed/']
   start: 2013/11/07
@@ -47,6 +49,10 @@ gleitz:
   links:
   - [I before E except Gleitzman, 'http://blog.gleitzman.com/', 'http://blog.gleitzman.com/rss']
   start: 2013/09/30
+greg:
+  links:
+  - [Greg Lubin, 'http://greglubin.com/', 'http://greglubin.com/rss']
+  start: 2014/05/11
 jason:
   end: '2014-03-17'
   links:
@@ -71,7 +77,6 @@ matt:
   - [Matt Spitz, 'http://mattspitz.me/', 'http://mattspitz.me/feed.xml']
   start: 2014/01/31
 mikek:
-  end: '2014-02-24'
   links:
   - [Mocking Eye, 'http://mockingeye.com/', 'http://mockingeye.com/atom.xml']
   start: 2013/09/30

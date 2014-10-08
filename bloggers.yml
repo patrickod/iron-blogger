@@ -108,3 +108,7 @@ greg:
   links:
   - [Greg Lubin, 'http://greglubin.com/']
   start: 2014/05/11
+peter:
+  links:
+  - [stuffthought, 'http://redgoldleader.blogspot.com/', 'http://redgoldleader.blogspot.com/feeds/posts/default?alt=rss']
+  start: 2013/09/30

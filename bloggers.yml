@@ -1,8 +1,7 @@
 adikamdar:
-  end: '2014-09-22'
   links:
   - [stuffthought, 'http://stuffthought.com/blog/', 'http://stuffthought.com/blog/?feed=atom']
-  start: 2014/09/28
+  start: 2014/09/30
 alexeymk:
   end: '2014-07-07'
   links:
@@ -113,3 +112,11 @@ trip:
   links:
   - [I'm Bruce, 'http://imbruce.blogspot.com/', 'http://imbruce.blogspot.com/feeds/posts/default']
   start: 2013/10/07
+greg:
+  links:
+  - [Greg Lubin, 'http://greglubin.com/']
+  start: 2014/05/11
+peter:
+  links:
+  - [stuffthought, 'http://redgoldleader.blogspot.com/', 'http://redgoldleader.blogspot.com/feeds/posts/default?alt=rss']
+  start: 2013/09/30

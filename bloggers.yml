@@ -50,7 +50,6 @@ gleitz:
   - [I before E except Gleitzman, 'http://blog.gleitzman.com/', 'http://blog.gleitzman.com/rss']
   start: 2013/09/30
 greg:
-  end: '2014-09-22'
   links:
   - [Greg Lubin, 'http://greglubin.com/', 'http://greglubin.com/rss']
   start: 2014/05/11
@@ -89,6 +88,10 @@ paul:
   - [connectioni.st, 'http://connectioni.st/', 'http://feeds.feedburner.com/connectionist']
   - [automin, 'http://automin.tumblr.com/', 'http://automin.tumblr.com/rss']
   start: 2013/09/30
+peter:
+  links:
+  - [stuffthought, 'http://redgoldleader.blogspot.com/', 'http://redgoldleader.blogspot.com/feeds/posts/default?alt=rss']
+  start: 2013/09/30
 randylubin:
   links:
   - [Randy Lubin, 'http://blog.randylubin.com/', 'http://feeds.feedburner.com/randylubin?format=xml']
@@ -112,11 +115,7 @@ trip:
   links:
   - [I'm Bruce, 'http://imbruce.blogspot.com/', 'http://imbruce.blogspot.com/feeds/posts/default']
   start: 2013/10/07
-greg:
+ariel:
   links:
-  - [Greg Lubin, 'http://greglubin.com/']
-  start: 2014/05/11
-peter:
-  links:
-  - [stuffthought, 'http://redgoldleader.blogspot.com/', 'http://redgoldleader.blogspot.com/feeds/posts/default?alt=rss']
-  start: 2013/09/30
+  - [Ariel Klevecz, 'http://www.arielklevecz.com/blog/']
+  start: 2015/01/01

@@ -10,6 +10,10 @@ ariel:
   links:
   - [Ariel Klevecz, 'http://www.arielklevecz.com/blog/', 'http://www.arielklevecz.com/blog/atom.xml']
   start: 2014/12/27
+benrusso:
+  links:
+  - [Cracked Machine, 'https://crackedmachine.wordpress.com/', 'https://crackedmachine.wordpress.com/feed/']
+  start: 2014/12/27
 chrismaury:
   links:
   - [Chris Maury's Blog, 'http://chrismaury.com/', 'http://chrismaury.com/rss']
@@ -48,6 +52,10 @@ matt:
   - [I like turtles, 'http://mattspitz.net/', 'http://mattspitz.net/feed.xml']
   - [Matt Spitz, 'http://mattspitz.me/', 'http://mattspitz.me/feed.xml']
   start: 2014/12/27
+mike:
+  links:
+  - [Mike Makes Art Blog, 'http://mikemakesart.blogspot.com/', 'http://mikemakesart.blogspot.com/feeds/posts/default?alt=rss']
+  start: 2014/12/27
 mikek:
   links:
   - [Mocking Eye, 'http://mockingeye.com/', 'http://mockingeye.com/atom.xml']
@@ -64,11 +72,7 @@ vivek:
   links:
   - [personal inventory, 'http://personalinventory.tumblr.com/', 'http://personalinventory.tumblr.com/rss']
   start: 2014/12/27
-benrusso:
+jason:
   links:
-  - [Cracked Machine, 'https://crackedmachine.wordpress.com/', 'https://crackedmachine.wordpress.com/feed/']
-  start: 2014/12/27
-mike:
-  links:
-  - [Mike Makes Art Blog, 'http://mikemakesart.blogspot.com/', 'http://mikemakesart.blogspot.com/feeds/posts/default?alt=rss']
+  - [Jason Baldwin, 'http://jasonsbaldwin.blogspot.com/', 'http://jasonsbaldwin.blogspot.com/feeds/posts/default?alt=rss']
   start: 2014/12/27

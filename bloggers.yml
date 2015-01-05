@@ -13,7 +13,7 @@ ariel:
 benrusso:
   links:
   - [Cracked Machine, 'https://crackedmachine.wordpress.com/', 'https://crackedmachine.wordpress.com/feed/']
-  start: 2014/12/27
+  start: 2014/01/04
 chrismaury:
   links:
   - [Chris Maury's Blog, 'http://chrismaury.com/', 'http://chrismaury.com/rss']
@@ -34,6 +34,10 @@ docpopular:
 gleitz:
   links:
   - [I before E except Gleitzman, 'http://blog.gleitzman.com/', 'http://blog.gleitzman.com/rss']
+  start: 2014/12/27
+jason:
+  links:
+  - [Jason Baldwin, 'http://jasonsbaldwin.blogspot.com/', 'http://jasonsbaldwin.blogspot.com/feeds/posts/default?alt=rss']
   start: 2014/12/27
 jtfoote:
   links:
@@ -71,8 +75,7 @@ thisisparker:
 vivek:
   links:
   - [personal inventory, 'http://personalinventory.tumblr.com/', 'http://personalinventory.tumblr.com/rss']
-  start: 2014/12/27
-jason:
-  links:
-  - [Jason Baldwin, 'http://jasonsbaldwin.blogspot.com/', 'http://jasonsbaldwin.blogspot.com/feeds/posts/default?alt=rss']
+  - [pedantree, 'http://pedantree.tumblr.com/', 'http://pedantree.tumblr.com/rss']
+  - [vivek on yelp, 'http://www.yelp.com/user_details?userid=BGzavA_ddMr-jGmhArv7fg',
+    'http://www.yelp.com/syndicate/user/BGzavA_ddMr-jGmhArv7fg/rss.xml']
   start: 2014/12/27

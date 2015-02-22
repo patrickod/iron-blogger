@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 ## -*- coding: utf-8 -*-
 
 import os.path
@@ -6,12 +6,12 @@ import datetime
 import subprocess
 
 HERE  = os.path.dirname(__file__)
-START = datetime.datetime(2013, 9, 30, 6)
+START = datetime.datetime(2015, 2, 22, 6)
 
-XMLRPC_ENDPOINT = 'http://iron-blogger-sf.com/xmlrpc.php'
-USER            = 'admin'
+XMLRPC_ENDPOINT = 'http://iron-blogger.noisebridge.systems/xmlrpc.php'
+USER            = 'patrickod'
 BLOG_ID         = 1
-PARTICIPANTS_PAGE_ID = 55
+PARTICIPANTS_PAGE_ID = 5
 
 FINE_SIZE = 5
 CURRENCY = "$"

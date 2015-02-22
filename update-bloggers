@@ -2,6 +2,7 @@
 HERE=$(dirname "$0")
 python $HERE/import-feeds.py
 python $HERE/render.py $HERE/templates/config.ini > $HERE/out/config.ini
-cp $HERE/out/config.ini /home/gleitz/projects/planet-nightly/examples/iron/config.ini
+
+rsync $HERE/out/config.ini iron-blogger@ratchet.noisebridge.systems:~/planet/config.ini
 
 python $HERE/update-participants.py

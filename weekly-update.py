@@ -27,7 +27,7 @@ def send_email(address, html):
     msg = MIMEMultipart('mixed')
     msg['Subject'] = 'Weekly Recap'
     msg['To'] = address
-    msg['From'] = username
+    msg['From'] = 'p@trickod.com'
     msg['Content-Type'] = 'text/html'
     msg.attach(MIMEText(html, 'html'))
     smtp.sendmail(username, address, msg.as_string())
@@ -87,7 +87,7 @@ def generate_email():
     if dry_run:
         print email
     else:
-        send_email('iron-blogger-sf@googlegroups.com', email)
+        send_email(MAILING_LIST_EMAIL, email)
 
     with open('out/email.txt', 'w') as f:
         f.write(email)

@@ -1,5 +1,5 @@
 *~
 *.pyc
 out/
-secret.txt
 ledger.old
+secret.txt

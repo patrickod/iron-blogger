@@ -1,14 +1,12 @@
 patrickod:
   links:
-    - [slash blog, 'https://patrickod.com/blog', 'https://patrickod.com/blog/atom.xml']
-  start: 2015/03/01
+  - [slash blog, 'https://patrickod.com/blog', 'https://patrickod.com/blog/atom.xml']
+  start: 2015/03/02
 rubin110:
   links:
-    - [Rubin Starset, 'http://rubin.starset.net', 'http://rubin.starset.net/feed']
-  start: 2015/03/01
-
+  - [Rubin Starset, 'http://rubin.starset.net', 'http://rubin.starset.net/feed']
+  start: 2015/03/02
 tdfischer:
   links:
-    - [Hackerbots, 'https://hackerbots.net', 'https://hackerbots.net/feeds/all.atom.xml']
-  start: 2015/03/01
-
+  - [Hackerbots, 'https://hackerbots.net', 'https://hackerbots.net/feeds/all.atom.xml']
+  start: 2015/03/02

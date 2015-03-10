@@ -17,6 +17,10 @@ except IOError:
 
 from config import START
 
+import ssl
+if hasattr(ssl, '_create_unverified_context'):
+    ssl._create_default_https_context = ssl._create_unverified_context
+
 def parse_published(pub):
     return parse(pub).astimezone(tz.tzlocal()).replace(tzinfo=None)
 

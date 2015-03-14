@@ -1,3 +1,7 @@
+gnusosa:
+  links:
+  - [Carlos Sosa, 'http://www.gnusosa.net/', 'http://www.gnusosa.net/feed']
+  start: 2015/03/16
 patrickod:
   links:
   - [slash blog, 'https://patrickod.com/blog', 'https://patrickod.com/blog/atom.xml']

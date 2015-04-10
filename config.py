@@ -13,7 +13,7 @@ USER            = 'patrickod'
 BLOG_ID         = 1
 PARTICIPANTS_PAGE_ID = 5
 
-MAILING_LIST_EMAIL = 'p+ironblogger@trickod.com'
+MAILING_LIST_EMAIL = 'iron-blogger@lists.noisebridge.net'
 
 FINE_SIZE = 5
 CURRENCY = "$"

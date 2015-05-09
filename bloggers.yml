@@ -6,10 +6,18 @@ patrickod:
   links:
   - [slash blog, 'https://patrickod.com/blog', 'https://patrickod.com/blog/atom.xml']
   start: 2015/03/02
+rrix:
+  links:
+  - ['Computer :(', 'http://whatthefuck.computer', 'http://whatthefuck.computer/rss.xml']
+  start: 2015/05/11
 rubin110:
   links:
   - [Rubin Starset, 'http://rubin.starset.net', 'http://rubin.starset.net/feed']
   start: 2015/03/02
+samertm:
+  links:
+  - [adventures in elisp, 'https://samertm.com', 'https://samertm.com/atom.xml']
+  start: 2015/05/11
 tdfischer:
   links:
   - [Hackerbots, 'https://hackerbots.net', 'https://hackerbots.net/feeds/all.atom.xml']

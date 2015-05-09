@@ -22,7 +22,11 @@ if hasattr(ssl, '_create_unverified_context'):
     ssl._create_default_https_context = ssl._create_unverified_context
 
 def parse_published(pub):
-    return parse(pub).astimezone(tz.tzlocal()).replace(tzinfo=None)
+    t = parse(pub)
+    if t.tzinfo is None:
+      return t
+    else:
+      return t.astimezone(tz.tzlocal()).replace(tzinfo=None)
 
 def get_date(post):
     for k in ('published', 'created', 'updated'):

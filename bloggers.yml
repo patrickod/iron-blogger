@@ -2,6 +2,10 @@ gnusosa:
   links:
   - [Carlos Sosa, 'http://www.gnusosa.net/', 'http://www.gnusosa.net/feed']
   start: 2015/03/16
+miloh:
+  links:
+  - [A timesausage log, 'http://timesausage.com', 'http://timesausage.com/feeds/all.atom.xml']
+  start: 2015/06/08
 patrickod:
   links:
   - [slash blog, 'https://patrickod.com/blog', 'https://patrickod.com/blog/atom.xml']
